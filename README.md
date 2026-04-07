@@ -13,7 +13,7 @@
 - [Utilisation](#utilisation)
 - [Résultats](#résultats)
 - [Technologies utilisées](#technologies-utilisées)
-- [Auteur](#auteur)
+- [Auteurs](#auteurs)
 
 ---
 
