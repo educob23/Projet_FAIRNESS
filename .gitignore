@@ -1,0 +1,19 @@
+# Environnements virtuels
+.venv/
+.venv312/
+
+# Cache et fichiers système
+.DS_Store
+.cache/
+__pycache__/
+.jupyter-kernels/
+.matplotlib/
+
+# Config locale
+.python-version
+
+#anciennes versions
+.old_not_important/
+
+# Modèles entraînés (trop lourds pour GitHub)
+expe_log/**/*.ckpt
