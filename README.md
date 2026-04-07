@@ -126,9 +126,9 @@ Les expériences menées montrent l'impact des techniques de mitigation sur le c
 ## Auteurs
 
 **Eduardo Cobos Fernández**  
-**Jeremy Rakotonirina**
-**Sipan Bareyan**
-**Amine Berrahma**
+**Jeremy Rakotonirina**  
+**Sipan Bareyan**  
+**Amine Berrahma**  
 
 Projet réalisé dans le cadre de l'UE Analyse et Réduction des Biais en Machine Learning. Enseignement suivi en trosième année de Licence Double Diplôme Informatique-Mathématiques à l'Université Paris-Saclay.
 
